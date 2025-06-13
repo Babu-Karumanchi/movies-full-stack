@@ -175,20 +175,6 @@ Access the app at: [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Follow these steps:
-
-1. **Fork** the repository.
-2. Create your feature branch:
-   `git checkout -b feature/your-feature-name`
-3. Commit your changes:
-   `git commit -m "Add your feature"`
-4. Push to the branch:
-   `git push origin feature/your-feature-name`
-5. Open a **Pull Request**.
-
----
 
 ## 👥 Authors
 
@@ -197,11 +183,6 @@ Contributions are welcome! Follow these steps:
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 🌐 Links
 
