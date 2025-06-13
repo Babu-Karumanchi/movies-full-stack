@@ -1,5 +1,5 @@
 
-# 🎬 Movies Full Stack
+# 🎬 Movies trailer review application 
 
 A comprehensive full-stack movie application that enables users to browse, review, and manage their favorite films. Built with modern web technologies to provide an interactive and seamless experience.
 
@@ -22,7 +22,7 @@ A comprehensive full-stack movie application that enables users to browse, revie
 
 ## 📌 About
 
-**Movies Full Stack** is a dynamic web app that allows users to:
+**Movies trailer review Full Stack** is a dynamic web app that allows users to:
 
 - Explore a large collection of movies.
 - View detailed movie information including reviews and trailers.
@@ -35,7 +35,7 @@ This project demonstrates the integration of a **React.js** frontend with a **Ja
 
 ## 🚀 Features
 
-- 🔍 **Movie Browsing** – Search and filter movies by title, genre, or rating.
+
 - 🎥 **Detailed Movie Pages** – View trailers, cast info, ratings, and user reviews.
 - 📄 **Watchlist Management** – Add and remove movies from your favorites.
 - 📝 **Movie Reviews** – Add and view reviews for each movie.
