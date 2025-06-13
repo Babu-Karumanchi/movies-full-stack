@@ -76,11 +76,11 @@ movies-full-stack/
 
 Ensure the following are installed:
 
-- [Java JDK 11+](https://adoptopenjdk.net/)
-- [Maven](https://maven.apache.org/)
-- [Node.js & npm](https://nodejs.org/)
-- [MongoDB](https://www.mongodb.com/)
-- [Git](https://git-scm.com/)
+- Java JDK 17
+- Maven
+- Node.js & npm
+- MongoDB
+- Git
 
 ---
 
